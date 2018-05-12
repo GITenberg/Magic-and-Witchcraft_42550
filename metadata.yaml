@@ -1,0 +1,34 @@
+_repo: Magic-and-Witchcraft_42550
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42550-h/images/cover_back.jpg
+creator:
+  author:
+    agent_name: Moir, George
+    birthdate: 1800
+    deathdate: 1870
+    gutenberg_agent_id: '42623'
+    url: http://www.gutenberg.org/2009/agents/42623
+description: Dip into the mysterious world of sorcery with this comprehensive take
+  on the topic. Published anonymously due to the incendiary nature of the subject
+  matter, Magic and Witchcraft offers a historical overview of magic throughout the
+  ages, all rendered in the deliciously ornate prose of the nineteenth century. Reading
+  this volume is like poring over one of the musty old textbooks that Harry Potter
+  and his fellow students would have been issued at Hogwarts School of Witchcraft
+  and Wizardry.
+gutenberg_issued: '2013-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42550'
+  lccn: '22004757'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witchcraft -- History'
+- !lcsh 'Magic -- History'
+- !lcc 'BF'
+title: Magic and Witchcraft
+url: http://www.gutenberg.org/ebooks/42550
