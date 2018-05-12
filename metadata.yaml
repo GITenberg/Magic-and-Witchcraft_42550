@@ -17,6 +17,8 @@ description: Dip into the mysterious world of sorcery with this comprehensive ta
   this volume is like poring over one of the musty old textbooks that Harry Potter
   and his fellow students would have been issued at Hogwarts School of Witchcraft
   and Wizardry.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42550#Magic-and-Witchcraft
 gutenberg_issued: '2013-04-16'
 gutenberg_type: Text
 identifiers:
